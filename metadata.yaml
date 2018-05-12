@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25129'
     url: http://www.gutenberg.org/2009/agents/25129
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22129#-Wee-Tim-rous-Beasties---Studies-of-Animal-life-and-Character
 gutenberg_bookshelf: Biology
 gutenberg_issued: '2007-07-24'
 gutenberg_type: Text
